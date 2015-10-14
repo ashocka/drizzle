@@ -1,2 +1,1 @@
-# drizzle
-site that plays rain sounds
+Playing around with different APIs.
